@@ -22,7 +22,6 @@ H3 — Convergência estatística
 Para valores altos de 𝑁, os resultados simulados aproximam-se dos valores teóricos.
 H4 — Sensibilidade à taxa de chegada
 Pequenas variações em 𝜆 próximas de 𝜇 geram grandes impactos nas métricas.
-<img width="1454" height="678" alt="image" src="https://github.com/user-attachments/assets/7b8bafdb-2de4-49cf-9805-4a4f0a19f4a4" />
 
 3. Planejamento experimental
 Fixado inicialmente:
